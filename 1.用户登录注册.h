@@ -188,7 +188,7 @@ void register_user()
                 while (getchar() != '\n');
                 printf("只能输入 1 或 2：");
             }
-            u.role = role;
+            u.role = (Role)role;
             u.uid = user_cnt + 1;
 
             user_list[user_cnt++] = u;
