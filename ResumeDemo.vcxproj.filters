@@ -68,8 +68,5 @@
     <ClInclude Include="0.全局结构体.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="16.管理员功能.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
